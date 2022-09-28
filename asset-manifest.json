@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sneaky-floof-web/static/css/main.cc8db116.css",
-    "main.js": "/sneaky-floof-web/static/js/main.754af60f.js",
+    "main.js": "/sneaky-floof-web/static/js/main.fde3d6f3.js",
     "static/js/787.961053ac.chunk.js": "/sneaky-floof-web/static/js/787.961053ac.chunk.js",
-    "static/media/logo.svg": "/sneaky-floof-web/static/media/logo.461b44382bb0db9060463b62e817ba46.svg",
+    "static/media/logo_tight.svg": "/sneaky-floof-web/static/media/logo_tight.37ebd921805e2b6dee8dc7a945edb738.svg",
     "index.html": "/sneaky-floof-web/index.html",
     "main.cc8db116.css.map": "/sneaky-floof-web/static/css/main.cc8db116.css.map",
-    "main.754af60f.js.map": "/sneaky-floof-web/static/js/main.754af60f.js.map",
+    "main.fde3d6f3.js.map": "/sneaky-floof-web/static/js/main.fde3d6f3.js.map",
     "787.961053ac.chunk.js.map": "/sneaky-floof-web/static/js/787.961053ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc8db116.css",
-    "static/js/main.754af60f.js"
+    "static/js/main.fde3d6f3.js"
   ]
 }
